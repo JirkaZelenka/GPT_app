@@ -1,0 +1,15 @@
+dash
+dash-auth
+dash-core-components
+dash-html-components
+dash-table
+
+# For environment variable management
+python-dotenv
+
+# For data manipulation
+pandas
+numpy
+
+# For progress bars in terminal
+tqdm
